@@ -4,6 +4,7 @@
 ##MATLAB을 사용하여 특정 조건에 따른 결과값 생성하기
 
 ![3 6-1](https://user-images.githubusercontent.com/58453290/70114144-c856d880-169e-11ea-9c7c-85006af01215.JPG)
+
 ![3 6-2](https://user-images.githubusercontent.com/58453290/70114150-cc82f600-169e-11ea-8ae9-8ebfaaf228ec.JPG)
 
 x=[2 2 0 -3 -2 -1 0 0 2];
