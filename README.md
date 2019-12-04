@@ -74,3 +74,7 @@ for i=1:9
     fprintf('x=%d y=%d r=%f    z=%f\n',x(i),y(i),r(i),z(i));
 
 end
+
+
+#수치해석(Matlab)
+#Homework2
